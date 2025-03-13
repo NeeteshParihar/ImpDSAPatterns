@@ -1,0 +1,35 @@
+
+#LCS longest common subsequences 
+1.https://leetcode.com/problems/longest-common-subsequence/description/
+2.https://leetcode.com/problems/delete-operation-for-two-strings/description/
+
+
+#knapsack 
+1.two equal subsets 
+https://leetcode.com/problems/partition-equal-subset-sum/submissions/1510770344/
+2. Target Sum  
+https://leetcode.com/problems/target-sum/description/
+3.LAst stone Weight *
+https://leetcode.com/problems/last-stone-weight-ii/description/
+
+
+#difference btw knapsack and unbounded knapsack is that 
+in knapsack we can chose a item 0 or 1 time but in unbounded knapsack we can choose them multiple times +
+
+#unbounded knapsack 
+1.coin change  , 322
+https://leetcode.com/problems/coin-change/description/ 
+2. coin change 2 * ( very important especially in 1d tabulation ) { read your solution to learn more }
+https://leetcode.com/problems/coin-change-ii/description/
+
+#LCS (longest common subsequence)
+1. supersequence of two strings
+https://leetcode.com/problems/shortest-common-supersequence/submissions/1538342955/
+
+#LIS ( longest increasing subsequnce )
+1.https://leetcode.com/problems/longest-increasing-subsequence/  
+2. https://leetcode.com/problems/number-of-longest-increasing-subsequence/  **
+3.https://leetcode.com/problems/russian-doll-envelopes/description/ 
+
+
+

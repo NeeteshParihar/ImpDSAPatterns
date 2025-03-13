@@ -1,0 +1,2 @@
+1 range queries update 
+https://leetcode.com/problems/zero-array-transformation-ii/?envType=daily-question&envId=2025-03-13
