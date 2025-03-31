@@ -10,7 +10,9 @@ https://leetcode.com/problems/partition-equal-subset-sum/submissions/1510770344/
 2. Target Sum  
 https://leetcode.com/problems/target-sum/description/
 3.LAst stone Weight *
-https://leetcode.com/problems/last-stone-weight-ii/description/
+https://leetcode.com/problems/last-stone-weight-ii/description/ 
+
+
 
 
 #difference btw knapsack and unbounded knapsack is that 
@@ -29,7 +31,31 @@ https://leetcode.com/problems/shortest-common-supersequence/submissions/15383429
 #LIS ( longest increasing subsequnce )
 1.https://leetcode.com/problems/longest-increasing-subsequence/  
 2. https://leetcode.com/problems/number-of-longest-increasing-subsequence/  **
-3.https://leetcode.com/problems/russian-doll-envelopes/description/ 
+3.https://leetcode.com/problems/russian-doll-envelopes/description/ '
+
+
+#subsets problems
+4. divide array into k equal subsets 
+https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+
+5. string partition 
+
+1. concatened words
+https://leetcode.com/problems/concatenated-words/description/ * 
+
+6. Catalan numbers 
+
+1.No. of unique binary search trees
+https://leetcode.com/problems/unique-binary-search-trees/description/
+2.total number of ways to arrange parenthesis
+https://leetcode.com/problems/generate-parentheses/description/
+
+// watch the keerti purvan vedio
+https://youtu.be/0pTN0qzpt-Y
+
+// in these type of question we need to find the numbers of ways to do 
+// anayle small cases and try to match it with catalan number pattern
+
 
 
 
