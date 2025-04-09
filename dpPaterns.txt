@@ -43,7 +43,7 @@ https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
 1. concatened words
 https://leetcode.com/problems/concatenated-words/description/ * 
 
-6. Catalan numbers 
+6. Catalan numbers **(require more practise)
 
 1.No. of unique binary search trees
 https://leetcode.com/problems/unique-binary-search-trees/description/
@@ -55,6 +55,18 @@ https://youtu.be/0pTN0qzpt-Y
 
 // in these type of question we need to find the numbers of ways to do 
 // anayle small cases and try to match it with catalan number pattern
+
+
+7. dp on grid 
+1.https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+
+8. count ways 
+1.https://leetcode.com/problems/count-number-of-texts/description/
+
+9.Partiton dp ***(require more practise)
+1.https://leetcode.com/problems/minimum-score-triangulation-of-polygon/description/
+2.https://leetcode.com/problems/burst-balloons/description/
+3.https://leetcode.com/problems/minimum-cost-to-merge-stones/description/  (not done yet)
 
 
 
