@@ -71,4 +71,6 @@ https://youtu.be/0pTN0qzpt-Y
 
 10. dp on trees
 1.https://leetcode.com/problems/house-robber-iii/
+2.https://leetcode.com/problems/binary-tree-cameras/solutions/
+3.https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
 
