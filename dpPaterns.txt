@@ -77,3 +77,10 @@ https://youtu.be/0pTN0qzpt-Y
 
 11. dp on graphs
 1.https://leetcode.com/problems/cheapest-flights-within-k-stops/
+
+12.digit dp 
+
+
+13.bitmasking dp 
+#imp solution : 
+https://leetcode.com/problems/fair-distribution-of-cookies/solutions/2141573/dp-submask-enumeration-most-optimal-solution-100-faster-c
