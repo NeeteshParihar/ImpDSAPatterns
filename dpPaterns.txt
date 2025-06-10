@@ -58,7 +58,7 @@ https://youtu.be/0pTN0qzpt-Y
 
 
 7. dp on grid 
-1.https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+1.https://leetcode.com/problems/longest-increasing-path-in-a-matrix/ 
 
 8. count ways 
 1.https://leetcode.com/problems/count-number-of-texts/description/
@@ -83,4 +83,5 @@ https://youtu.be/0pTN0qzpt-Y
 
 13.bitmasking dp 
 #imp solution : 
-https://leetcode.com/problems/fair-distribution-of-cookies/solutions/2141573/dp-submask-enumeration-most-optimal-solution-100-faster-c
+1.https://leetcode.com/problems/fair-distribution-of-cookies/solutions/2141573/dp-submask-enumeration-most-optimal-solution-100-faster-c
+2.https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/
